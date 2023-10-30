@@ -5,7 +5,7 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
 # Work Experience
 
@@ -17,9 +17,9 @@ sidebar: false
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Firm **Türk Traktör ve Ziraat Makineleri A.Ş.**, position *Production and Material Planning*, year 2023
 
-2.  Firm bbb, position yyy, year yyy
+2.  Firm **Makine ve Kimya Endüstrisi**, position *Production*, year 2023
 
 # Projects
 
@@ -28,3 +28,5 @@ sidebar: false
 R, Quarto, Git, Python
 
 # Hobbies
+
+Pool, Soccer, Cinema, Workout
