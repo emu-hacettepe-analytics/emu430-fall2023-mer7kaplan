@@ -7,6 +7,10 @@ sidebar: false
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
+# Resume
+
+Here is my CV: [Click here to download the resume.](resume.pdf)
+
 # Work Experience
 
 ## Internships
