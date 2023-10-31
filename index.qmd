@@ -1,5 +1,10 @@
 ---
 title: "Welcome to My Analytics Lab"
+image: MB Logo 3.jpg
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
 sidebar: false 
 ---
 

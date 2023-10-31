@@ -1,6 +1,10 @@
 ---
 title: "About Me"
-sidebar: false 
+sidebar: false
+links:
+  text: My CV
+  icon: file-text
+  href: resume.pdf
 ---
 
 # Education
