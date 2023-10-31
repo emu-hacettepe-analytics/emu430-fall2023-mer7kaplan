@@ -12,7 +12,7 @@ My first assignment has three parts.
 
 ## (a)
 
-Here is the video I chose for Part A. The video mainly focuses on the comparison between R and Python. [R vs Python \| Which is Better for Data Analysis?](https://www.youtube.com/watch?v=1gdKC5O0Pwc)
+Here is the video I chose for Part A. [R vs Python \| Which is Better for Data Analysis?](https://www.youtube.com/watch?v=1gdKC5O0Pwc) The video mainly focuses on the comparison between R and Python.
 
 #### ***Brief Summary:***
 
