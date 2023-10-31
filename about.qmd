@@ -1,10 +1,6 @@
 ---
 title: "About Me"
 sidebar: false
-links:
-  text: My CV
-  icon: file-text
-  href: resume.pdf
 ---
 
 # Education
@@ -13,19 +9,11 @@ links:
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
 1.  Firm **Türk Traktör ve Ziraat Makineleri A.Ş.**, position *Production and Material Planning*, year 2023
 
 2.  Firm **Makine ve Kimya Endüstrisi**, position *Production*, year 2023
-
-# Projects
 
 # Competencies
 
