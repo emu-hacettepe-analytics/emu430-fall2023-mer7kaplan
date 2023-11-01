@@ -4,10 +4,6 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
-
 My first assignment has three parts.
 
 ## (a)
@@ -28,3 +24,19 @@ In this video, the presenter discusses whether Python or R is better for data an
 -   Python is easier to learn, while R offers more advanced features.
 
 ## **(b)**
+
+## **(c)**
+
+```{r}
+options(repos = c(CRAN = "https://cran.r-project.org"))
+install.packages("dslabs")
+library(dslabs)
+data("na_example")
+na_example
+# Total number of NAs in the data frame:
+sum(is.na(na_example))
+no_na_example <- ifelse(is.na(na_example), 0, na_example)
+no_na_example
+# Total number of NAs in the new data frame:
+sum(is.na(no_na_example))
+```
