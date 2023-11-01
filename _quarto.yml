@@ -46,7 +46,7 @@ format:
     toc: true
     toc-location: left
     theme: 
-      light: pulse
+      light: sketchy
       dark: superhero
     css: styles.css
 
