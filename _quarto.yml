@@ -42,14 +42,13 @@ website:
     center: "Hacettepe IE - EMU 430 - Fall 2023" 
     border: true
 format:
-  html:
+  html: 
     toc: true
     toc-location: left
-    theme: lux
-      light: pulse 
+    theme: 
+      light: pulse
       dark: superhero
     css: styles.css
-
 
 editor: visual
 
