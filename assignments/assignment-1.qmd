@@ -27,9 +27,12 @@ In this video, the presenter discusses whether Python or R is better for data an
 
 ## **(c)**
 
-```{r}
+```{r, echo=FALSE}
 options(repos = c(CRAN = "https://cran.r-project.org"))
 install.packages("dslabs")
+```
+
+```{r}
 library(dslabs)
 data("na_example")
 na_example
