@@ -16,7 +16,9 @@ Here is the video I chose for Part A. [R vs Python \| Which is Better for Data A
 
 #### ***Brief Summary:***
 
-> In this video, the presenter discusses whether Python or R is better for data analysis. Python is described as a versatile programming language, while R was initially made for statistics. The video talks about popular packages in both languages and mentions that Python is good for web applications and easy to learn, while R is better for advanced stats. The presenter suggests trying both to see which one works best for you, promoting an open-minded approach to this debate.
+::: {align="justify"}
+In this video, the presenter discusses whether Python or R is better for data analysis. Python is described as a versatile programming language, while R was initially made for statistics. The video talks about popular packages in both languages and mentions that Python is good for web applications and easy to learn, while R is better for advanced stats. The presenter suggests trying both to see which one works best for you, promoting an open-minded approach to this debate.
+:::
 
 #### ***Highlights***:
 
