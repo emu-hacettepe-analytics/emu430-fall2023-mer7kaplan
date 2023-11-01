@@ -4,7 +4,7 @@ image: MB Logo 3.jpg
 about:
   template: jolla
   image-shape: round
-  image-width: 15em
+  image-width: 10em
 sidebar: false 
 ---
 
