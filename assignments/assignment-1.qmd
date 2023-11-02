@@ -14,20 +14,73 @@ Here is the video I chose for Part A. [R vs Python \| Which is Better for Data A
 In this video, the presenter discusses whether Python or R is better for data analysis. Python is described as a versatile programming language, while R was initially made for statistics. The video talks about popular packages in both languages and mentions that Python is good for web applications and easy to learn, while R is better for advanced stats. The presenter suggests trying both to see which one works best for you, promoting an open-minded approach to this debate.
 :::
 
-#### **Highlights**:
+## **(b)**
+
+#### **Differences Between R and Python**:
 
 -   Python is a general-purpose programming language, while R was initially developed for statistical analysis.
 -   Popular packages in R include dplyr, ggplot2, and shiny, while Python offers libraries like pandas, matplotlib, and seaborn.
 -   Python is more versatile and suitable for web applications, but R excels in statistical analysis.
 -   Python is easier to learn, while R offers more advanced features.
 
-## **(b)**
+#### **Syntax Example**:
+
+##### Working with data arrays
+
+```{r}
+# R
+# Create a vector:
+my_vec <- c(1, 2, 3, 4, 5, 6, 7, 8)
+str(my_vec)
+```
+
+```{python, python.reticulate = FALSE}
+# Python
+# Create a list:
+my_vec = [1, 2, 3, 4, 5, 6, 7, 8]
+print(type(my_vec))
+```
+
+##### Defining Functions
+```{r}
+# R
+#Define a function:
+my_compare <- function(x, y){
+  if(x < y){
+    print("1st value is smaller")
+  }else{
+    if(x > y){
+      print("1st value is greater")
+    }else{
+      print("Values are equal")
+    }
+  }
+}
+#Test the function
+my_compare(1, 1)
+```
+
+```{python, python.reticulate = FALSE}
+# Python
+#Define a function:
+def my_compare(x, y):
+  if x < y:
+    print("1st value is smaller")
+  elif x > y:
+    print("1st value is greater")
+  else:
+    print("Values are equal")
+#
+#
+#
+#
+#Test the function
+my_compare(1, 1)
+```
 
 ## **(c)**
 
 ```{r}
-options(repos = c(CRAN = "https://cran.r-project.org"))
-install.packages("dslabs")
 library(dslabs)
 data("na_example")
 na_example
