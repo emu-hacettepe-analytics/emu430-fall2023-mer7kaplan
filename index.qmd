@@ -1,15 +1,28 @@
 ---
 title: "Welcome to My Analytics Lab"
-image: MB Logo 3.jpg
 about:
-  template: jolla
+  id: hero-heading
+  template: trestles
+  image: MB Logo 3.jpg
   image-shape: round
   image-width: 10em
+  links: 
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mer7kaplan
+    - icon: github
+      text: Github
+      href: https://github.com/mer7kaplan
+    - icon: linkedin
+      text: LinkedIn 
+      href: https://www.linkedin.com/in/mertbekir-kaplan/
 sidebar: false 
 ---
 
+::: {#hero-heading}
 [Hello and thank you for visiting my personal webpage. My name is **Mert Bekir Kaplan**. I'm thrilled to have you here, and I hope you'll enjoy your time exploring the content I've created.]{style="font family:Georgia"}
 
 [This is my personal webpage. Feel free to browse through the various sections and get to know me a little better. If you have any questions, want to connect, or share your thoughts, please don't hesitate to reach out. Besides please stay tuned to follow my works on data analytics, blog posts, and more.]{style="font family:Georgia"}
 
-[Thank you for visiting, and I hope you enjoy your time here.]{style="font family:Georgia"}
+[Thank you for visiting, and I hope you enjoy your time here. ]{style="font family:Georgia"}😊
+:::
