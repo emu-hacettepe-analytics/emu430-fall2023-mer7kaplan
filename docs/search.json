@@ -39,7 +39,7 @@
     "href": "about.html#internships",
     "title": "About Me",
     "section": "Internships",
-    "text": "Internships\n\nFirm Türk Traktör ve Ziraat Makineleri A.Ş., position Production and Material Planning, year 2023\nFirm Makine ve Kimya Endüstrisi, position Production, year 2023"
+    "text": "Internships\n\nTürk Traktör ve Ziraat Makineleri A.S., Production and Material Planning Department, 05/07/2023 - 02/08/2023\nMakine ve Kimya Endüstrisi A.S., Production Department, 21/08/2023 - 18/09/2023"
   },
   {
     "objectID": "assignments/assignment-1.html",
@@ -82,5 +82,19 @@
     "title": "Assignment 1",
     "section": "(b)",
     "text": "(b)\n\nDifferences Between R and Python:\n\nPython is a general-purpose programming language, while R was initially developed for statistical analysis.\nPopular packages in R include dplyr, ggplot2, and shiny, while Python offers libraries like pandas, matplotlib, and seaborn.\nPython is more versatile and suitable for web applications, but R excels in statistical analysis.\nPython is easier to learn, while R offers more advanced features.\n\n\n\nSyntax Example:\n\nWorking with data arrays\n\n# R\n# Create a vector:\nmy_vec &lt;- c(1, 2, 3, 4, 5, 6, 7, 8)\nstr(my_vec)\n\n num [1:8] 1 2 3 4 5 6 7 8\n\n\n\n# Python\n# Create a list:\nmy_vec = [1, 2, 3, 4, 5, 6, 7, 8]\nprint(type(my_vec))\n\n&lt;class 'list'&gt;\n\n\n\n\nDefining Functions\n\n# R\n#Define a function:\nmy_compare &lt;- function(x, y){\n  if(x &lt; y){\n    print(\"1st value is smaller\")\n  }else{\n    if(x &gt; y){\n      print(\"1st value is greater\")\n    }else{\n      print(\"Values are equal\")\n    }\n  }\n}\n#Test the function\nmy_compare(1, 1)\n\n[1] \"Values are equal\"\n\n\n\n# Python\n#Define a function:\ndef my_compare(x, y):\n  if x &lt; y:\n    print(\"1st value is smaller\")\n  elif x &gt; y:\n    print(\"1st value is greater\")\n  else:\n    print(\"Values are equal\")\n#\n#\n#\n#\n#Test the function\nmy_compare(1, 1)\n\nValues are equal"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing."
+  },
+  {
+    "objectID": "about.html#resume",
+    "href": "about.html#resume",
+    "title": "About Me",
+    "section": "Resume",
+    "text": "Resume\nHere is my CV: Click here to download the resume."
   }
 ]

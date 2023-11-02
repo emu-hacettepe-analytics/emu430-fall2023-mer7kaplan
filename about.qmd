@@ -3,21 +3,19 @@ title: "About Me"
 sidebar: false
 ---
 
-# Education
+## Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing.
 
-# Resume
+## Resume
 
 Here is my CV: [Click here to download the resume.](resume.pdf)
 
-# Work Experience
-
 ## Internships
 
-1.  Firm **Türk Traktör ve Ziraat Makineleri A.Ş.**, position *Production and Material Planning*, year 2023
+1.  **Türk Traktör ve Ziraat Makineleri A.S.**, Production and Material Planning Department, 05/07/2023 - 02/08/2023
 
-2.  Firm **Makine ve Kimya Endüstrisi**, position *Production*, year 2023
+2.  **Makine ve Kimya Endüstrisi A.S.**, Production Department, 21/08/2023 - 18/09/2023
 
 # Competencies
 
