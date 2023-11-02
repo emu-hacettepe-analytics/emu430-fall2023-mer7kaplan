@@ -17,10 +17,10 @@ Here is my CV: [Click here to download the resume.](resume.pdf)
 
 2.  **Makine ve Kimya Endüstrisi A.S.**, Production Department, 21/08/2023 - 18/09/2023
 
-# Competencies
+## Competencies
 
 R, Quarto, Git, Python
 
-# Hobbies
+## Hobbies
 
 Pool, Soccer, Cinema, Workout

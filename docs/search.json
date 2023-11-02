@@ -96,5 +96,19 @@
     "title": "About Me",
     "section": "Resume",
     "text": "Resume\nHere is my CV: Click here to download the resume."
+  },
+  {
+    "objectID": "about.html#competencies",
+    "href": "about.html#competencies",
+    "title": "About Me",
+    "section": "Competencies",
+    "text": "Competencies\nR, Quarto, Git, Python"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "About Me",
+    "section": "Hobbies",
+    "text": "Hobbies\nPool, Soccer, Cinema, Workout"
   }
 ]
