@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[EMÜ430/Mert Bekir Kaplan]'s Analytics Lab"
+  title: "Mert's Analytics Lab"
   navbar:
     search: true
     left:
