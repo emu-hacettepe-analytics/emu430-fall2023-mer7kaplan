@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Mert's Analytics Lab"
+  favicon: "MB Logo 3.png"
   navbar:
     search: true
     left:
