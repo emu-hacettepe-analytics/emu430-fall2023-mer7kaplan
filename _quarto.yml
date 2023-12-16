@@ -48,7 +48,7 @@ format:
     toc-location: left
     theme: 
       light: sketchy
-      dark: superhero
+      dark: sketchy
     css: styles.css
 
 editor: visual

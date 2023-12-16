@@ -3,10 +3,14 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+I'm honored to be a member of the Data Cipher project team.
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
+Below, you'll find a brief summary of our project. To access a detailed project description, please go to [Data Cipher's Project Lab](https://emu-hacettepe-analytics.github.io/emu430-fall2023-team-data_ciphers/).
 
-**Summary**
+## Summary
 
-\[provide a biref summary of your project\]
+::: {style="text-align: justify"}
+We have chosen the Turkey Health Survey data from the Turkey Statistical Institute for our analysis. The Turkey Health Survey is a research project that aims to understand overall health and collect data on key health indicators to measure the development of the country. The study provides international comparisons and insights into national health needs. We selected the 'Turkey Health Survey' data set because it covers a wide range of health-related information in Turkey, including health habits, healthcare utilization, prevalent diseases, and demographic details. As a team, we aim to analyze health patterns across different gender and age groups, identify variations in health behaviors and disease occurrence, and understand health service utilization. Our ultimate goal is to provide valuable insights for health policies and activities.
+:::
+
+![](tuik.png){width="186"}
