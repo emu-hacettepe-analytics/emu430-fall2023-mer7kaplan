@@ -28,62 +28,6 @@
     "text": "Bachelor’s Degree, Industrial Engineering, Hacettepe University, Turkey, 2019 - ongoing."
   },
   {
-    "objectID": "about.html#employements",
-    "href": "about.html#employements",
-    "title": "About Me",
-    "section": "Employements",
-    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
-  },
-  {
-    "objectID": "about.html#internships",
-    "href": "about.html#internships",
-    "title": "About Me",
-    "section": "Internships",
-    "text": "Internships\n Türk Traktör ve Ziraat Makineleri A.S., Production and Material Planning Department, 05/07/2023 - 02/08/2023\n Makine ve Kimya Endüstrisi A.S., Production Department, 21/08/2023 - 18/09/2023"
-  },
-  {
-    "objectID": "assignments/assignment-1.html",
-    "href": "assignments/assignment-1.html",
-    "title": "Assignment 1",
-    "section": "",
-    "text": "My first assignment consists of three parts."
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "My Assignments",
-    "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the Fall 2023 EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on November 1, 2023\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "My Blog",
-    "section": "",
-    "text": "This page is under construction.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "assignments/assignment-1.html#a",
-    "href": "assignments/assignment-1.html#a",
-    "title": "Assignment 1",
-    "section": "(a)",
-    "text": "(a)\nHere is the video I chose for Part A. R vs Python | Which is Better for Data Analysis? The video mainly focuses on the comparison between R and Python.\n\nBrief Summary:\n\nIn this video, the presenter discusses whether Python or R is better for data analysis. Python is described as a versatile programming language, while R was initially made for statistics. The video talks about popular packages in both languages and mentions that Python is good for web applications and easy to learn, while R is better for advanced stats. The presenter suggests trying both to see which one works best for you, promoting an open-minded approach to this debate."
-  },
-  {
-    "objectID": "assignments/assignment-1.html#c",
-    "href": "assignments/assignment-1.html#c",
-    "title": "Assignment 1",
-    "section": "(c)",
-    "text": "(c)\n\nlibrary(dslabs)\ndata(\"na_example\")\nna_example\n\n   [1]  2  1  3  2  1  3  1  4  3  2  2 NA  2  2  1  4 NA  1  1  2  1  2  2  1\n  [25]  2  5 NA  2  2  3  1  2  4  1  1  1  4  5  2  3  4  1  2  4  1  1  2  1\n  [49]  5 NA NA NA  1  1  5  1  3  1 NA  4  4  7  3  2 NA NA  1 NA  4  1  2  2\n  [73]  3  2  1  2  2  4  3  4  2  3  1  3  2  1  1  1  3  1 NA  3  1  2  2  1\n  [97]  2  2  1  1  4  1  1  2  3  3  2  2  3  3  3  4  1  1  1  2 NA  4  3  4\n [121]  3  1  2  1 NA NA NA NA  1  5  1  2  1  3  5  3  2  2 NA NA NA NA  3  5\n [145]  3  1  1  4  2  4  3  3 NA  2  3  2  6 NA  1  1  2  2  1  3  1  1  5 NA\n [169] NA  2  4 NA  2  5  1  4  3  3 NA  4  3  1  4  1  1  3  1  1 NA NA  3  5\n [193]  2  2  2  3  1  2  2  3  2  1 NA  2 NA  1 NA NA  2  1  1 NA  3 NA  1  2\n [217]  2  1  3  2  2  1  1  2  3  1  1  1  4  3  4  2  2  1  4  1 NA  5  1  4\n [241] NA  3 NA NA  1  1  5  2  3  3  2  4 NA  3  2  5 NA  2  3  4  6  2  2  2\n [265] NA  2 NA  2 NA  3  3  2  2  4  3  1  4  2 NA  2  4 NA  6  2  3  1 NA  2\n [289]  2 NA  1  1  3  2  3  3  1 NA  1  4  2  1  1  3  2  1  2  3  1 NA  2  3\n [313]  3  2  1  2  3  5  5  1  2  3  3  1 NA NA  1  2  4 NA  2  1  1  1  3  2\n [337]  1  1  3  4 NA  1  2  1  1  3  3 NA  1  1  3  5  3  2  3  4  1  4  3  1\n [361] NA  2  1  2  2  1  2  2  6  1  2  4  5 NA  3  4  2  1  1  4  2  1  1  1\n [385]  1  2  1  4  4  1  3 NA  3  3 NA  2 NA  1  2  1  1  4  2  1  4  4 NA  1\n [409]  2 NA  3  2  2  2  1  4  3  6  1  2  3  1  3  2  2  2  1  1  3  2  1  1\n [433]  1  3  2  2 NA  4  4  4  1  1 NA  4  3 NA  1  3  1  3  2  4  2  2  2  3\n [457]  2  1  4  3 NA  1  4  3  1  3  2 NA  3 NA  1  3  1  4  1  1  1  2  4  3\n [481]  1  2  2  2  3  2  3  1  1 NA  3  2  1  1  2 NA  2  2  2  3  3  1  1  2\n [505] NA  1  2  1  1  3  3  1  3  1  1  1  1  1  2  5  1  1  2  2  1  1 NA  1\n [529]  4  1  2  4  1  3  2 NA  1  1 NA  2  1  1  4  2  3  3  1  5  3  1  1  2\n [553] NA  1  1  3  1  3  2  4 NA  2  3  2  1  2  1  1  1  2  2  3  1  5  2 NA\n [577]  2 NA  3  2  2  2  1  5  3  2  3  1 NA  3  1  2  2  2  1  2  2  4 NA  6\n [601]  1  2 NA  1  1  2  2  3 NA  3  2  3  3  4  2 NA  2 NA  4 NA  1  1  2  2\n [625]  3  1  1  1  3 NA  2  5 NA  7  1 NA  4  3  3  1 NA  1  1  1  1  3  2  4\n [649]  2  2  3 NA NA  1  4  3  2  2  2  3  2  4  2  2  4 NA NA NA  6  3  3  1\n [673]  4  4  2  1 NA  1  6 NA  3  3  2  1  1  6 NA  1  5  1 NA  2  6  2 NA  4\n [697]  1  3  1  2 NA  1  1  3  1  2  4  2  1  3  2  4  3  2  2  1  1  5  6  4\n [721]  2  2  2  2  4 NA  1  2  2  2  2  4  5 NA NA NA  4  3  3  3  2  4  2  4\n [745] NA NA NA NA  2  1 NA  2  4  3  2 NA  2  3  1  3  4 NA  1  2  1  2 NA  3\n [769]  1  2  1  2  1  2  1  2  2  2  2  1  1  3  3  1  3  4  3 NA NA  4  2  3\n [793]  2  1  3  2  4  2  2  3  1  2  4  3  3  4 NA  1  4  2  1  1  1  3  1  5\n [817]  2  2  4  2 NA  1  3  1  2 NA  1  2  1  2  1 NA  1  3  2  3  2 NA  2  1\n [841]  4  2 NA NA NA  2  4  2 NA NA  3  1 NA  5  5  2  2  2 NA  2  1  3  1  3\n [865]  2  4  2  4 NA  4  1  2  3  2  3  3  2  3  2  2  2  1  3  2  4  2 NA  3\n [889]  3  2  2 NA NA  3  2  1  2  4  1  1  1  1  4  3  2 NA  3  2 NA  1 NA  3\n [913]  2  1  1  1  2 NA  2  2  3  3  2 NA NA  4  5  2  2  2  1  2  3  1  3  3\n [937]  4  3 NA  1  1  1 NA  4  3  5  1  1  2 NA  2  2  2  2  5  2  2  3  1  2\n [961]  3 NA  1  2 NA NA  2 NA  3  1  1  2  5  3  5  1  1  4 NA  2  1  3  1  1\n [985]  2  4  3  3  3 NA  1  1  2  2  1  1  2  2 NA  2\n\n# Total number of NAs in the data frame:\nsum(is.na(na_example))\n\n[1] 145\n\nno_na_example &lt;- ifelse(is.na(na_example), 0, na_example)\nno_na_example\n\n   [1] 2 1 3 2 1 3 1 4 3 2 2 0 2 2 1 4 0 1 1 2 1 2 2 1 2 5 0 2 2 3 1 2 4 1 1 1 4\n  [38] 5 2 3 4 1 2 4 1 1 2 1 5 0 0 0 1 1 5 1 3 1 0 4 4 7 3 2 0 0 1 0 4 1 2 2 3 2\n  [75] 1 2 2 4 3 4 2 3 1 3 2 1 1 1 3 1 0 3 1 2 2 1 2 2 1 1 4 1 1 2 3 3 2 2 3 3 3\n [112] 4 1 1 1 2 0 4 3 4 3 1 2 1 0 0 0 0 1 5 1 2 1 3 5 3 2 2 0 0 0 0 3 5 3 1 1 4\n [149] 2 4 3 3 0 2 3 2 6 0 1 1 2 2 1 3 1 1 5 0 0 2 4 0 2 5 1 4 3 3 0 4 3 1 4 1 1\n [186] 3 1 1 0 0 3 5 2 2 2 3 1 2 2 3 2 1 0 2 0 1 0 0 2 1 1 0 3 0 1 2 2 1 3 2 2 1\n [223] 1 2 3 1 1 1 4 3 4 2 2 1 4 1 0 5 1 4 0 3 0 0 1 1 5 2 3 3 2 4 0 3 2 5 0 2 3\n [260] 4 6 2 2 2 0 2 0 2 0 3 3 2 2 4 3 1 4 2 0 2 4 0 6 2 3 1 0 2 2 0 1 1 3 2 3 3\n [297] 1 0 1 4 2 1 1 3 2 1 2 3 1 0 2 3 3 2 1 2 3 5 5 1 2 3 3 1 0 0 1 2 4 0 2 1 1\n [334] 1 3 2 1 1 3 4 0 1 2 1 1 3 3 0 1 1 3 5 3 2 3 4 1 4 3 1 0 2 1 2 2 1 2 2 6 1\n [371] 2 4 5 0 3 4 2 1 1 4 2 1 1 1 1 2 1 4 4 1 3 0 3 3 0 2 0 1 2 1 1 4 2 1 4 4 0\n [408] 1 2 0 3 2 2 2 1 4 3 6 1 2 3 1 3 2 2 2 1 1 3 2 1 1 1 3 2 2 0 4 4 4 1 1 0 4\n [445] 3 0 1 3 1 3 2 4 2 2 2 3 2 1 4 3 0 1 4 3 1 3 2 0 3 0 1 3 1 4 1 1 1 2 4 3 1\n [482] 2 2 2 3 2 3 1 1 0 3 2 1 1 2 0 2 2 2 3 3 1 1 2 0 1 2 1 1 3 3 1 3 1 1 1 1 1\n [519] 2 5 1 1 2 2 1 1 0 1 4 1 2 4 1 3 2 0 1 1 0 2 1 1 4 2 3 3 1 5 3 1 1 2 0 1 1\n [556] 3 1 3 2 4 0 2 3 2 1 2 1 1 1 2 2 3 1 5 2 0 2 0 3 2 2 2 1 5 3 2 3 1 0 3 1 2\n [593] 2 2 1 2 2 4 0 6 1 2 0 1 1 2 2 3 0 3 2 3 3 4 2 0 2 0 4 0 1 1 2 2 3 1 1 1 3\n [630] 0 2 5 0 7 1 0 4 3 3 1 0 1 1 1 1 3 2 4 2 2 3 0 0 1 4 3 2 2 2 3 2 4 2 2 4 0\n [667] 0 0 6 3 3 1 4 4 2 1 0 1 6 0 3 3 2 1 1 6 0 1 5 1 0 2 6 2 0 4 1 3 1 2 0 1 1\n [704] 3 1 2 4 2 1 3 2 4 3 2 2 1 1 5 6 4 2 2 2 2 4 0 1 2 2 2 2 4 5 0 0 0 4 3 3 3\n [741] 2 4 2 4 0 0 0 0 2 1 0 2 4 3 2 0 2 3 1 3 4 0 1 2 1 2 0 3 1 2 1 2 1 2 1 2 2\n [778] 2 2 1 1 3 3 1 3 4 3 0 0 4 2 3 2 1 3 2 4 2 2 3 1 2 4 3 3 4 0 1 4 2 1 1 1 3\n [815] 1 5 2 2 4 2 0 1 3 1 2 0 1 2 1 2 1 0 1 3 2 3 2 0 2 1 4 2 0 0 0 2 4 2 0 0 3\n [852] 1 0 5 5 2 2 2 0 2 1 3 1 3 2 4 2 4 0 4 1 2 3 2 3 3 2 3 2 2 2 1 3 2 4 2 0 3\n [889] 3 2 2 0 0 3 2 1 2 4 1 1 1 1 4 3 2 0 3 2 0 1 0 3 2 1 1 1 2 0 2 2 3 3 2 0 0\n [926] 4 5 2 2 2 1 2 3 1 3 3 4 3 0 1 1 1 0 4 3 5 1 1 2 0 2 2 2 2 5 2 2 3 1 2 3 0\n [963] 1 2 0 0 2 0 3 1 1 2 5 3 5 1 1 4 0 2 1 3 1 1 2 4 3 3 3 0 1 1 2 2 1 1 2 2 0\n[1000] 2\n\n# Total number of NAs in the new data frame:\nsum(is.na(no_na_example))\n\n[1] 0"
-  },
-  {
-    "objectID": "assignments/assignment-1.html#b",
-    "href": "assignments/assignment-1.html#b",
-    "title": "Assignment 1",
-    "section": "(b)",
-    "text": "(b)\n\nDifferences Between R and Python:\n\nPython is a general-purpose programming language, while R was initially developed for statistical analysis.\nPopular packages in R include dplyr, ggplot2, and shiny, while Python offers libraries like pandas, matplotlib, and seaborn.\nPython is more versatile and suitable for web applications, but R excels in statistical analysis.\nPython is easier to learn, while R offers more advanced features.\n\n\n\nSyntax Example:\n\nWorking with data arrays\n\n# R\n# Create a vector:\nmy_vec &lt;- c(1, 2, 3, 4, 5, 6, 7, 8)\nstr(my_vec)\n\n num [1:8] 1 2 3 4 5 6 7 8\n\n\n\n# Python\n# Create a list:\nmy_vec = [1, 2, 3, 4, 5, 6, 7, 8]\nprint(type(my_vec))\n\n&lt;class 'list'&gt;\n\n\n\n\nDefining Functions\n\n# R\n#Define a function:\nmy_compare &lt;- function(x, y){\n  if(x &lt; y){\n    print(\"1st value is smaller\")\n  }else{\n    if(x &gt; y){\n      print(\"1st value is greater\")\n    }else{\n      print(\"Values are equal\")\n    }\n  }\n}\n#Test the function\nmy_compare(1, 1)\n\n[1] \"Values are equal\"\n\n\n\n# Python\n#Define a function:\ndef my_compare(x, y):\n  if x &lt; y:\n    print(\"1st value is smaller\")\n  elif x &gt; y:\n    print(\"1st value is greater\")\n  else:\n    print(\"Values are equal\")\n#\n#\n#\n#\n#Test the function\nmy_compare(1, 1)\n\nValues are equal"
-  },
-  {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About Me",
@@ -98,6 +42,13 @@
     "text": "Resume\nHere is my CV: Click here to download the resume."
   },
   {
+    "objectID": "about.html#internships",
+    "href": "about.html#internships",
+    "title": "About Me",
+    "section": "Internships",
+    "text": "Internships\n Türk Traktör ve Ziraat Makineleri A.S., Production and Material Planning Department, 05/07/2023 - 02/08/2023\n Makine ve Kimya Endüstrisi A.S., Production Department, 21/08/2023 - 18/09/2023"
+  },
+  {
     "objectID": "about.html#competencies",
     "href": "about.html#competencies",
     "title": "About Me",
@@ -110,5 +61,47 @@
     "title": "About Me",
     "section": "Hobbies",
     "text": "Hobbies\nPool, Soccer, Cinema, Workout, Chess, Reading Books, Self-Improvement"
+  },
+  {
+    "objectID": "assignments/assignment-1.html",
+    "href": "assignments/assignment-1.html",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "My first assignment consists of three parts."
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a",
+    "href": "assignments/assignment-1.html#a",
+    "title": "Assignment 1",
+    "section": "(a)",
+    "text": "(a)\nHere is the video I chose for Part A. R vs Python | Which is Better for Data Analysis? The video mainly focuses on the comparison between R and Python.\n\nBrief Summary:\n\nIn this video, the presenter discusses whether Python or R is better for data analysis. Python is described as a versatile programming language, while R was initially made for statistics. The video talks about popular packages in both languages and mentions that Python is good for web applications and easy to learn, while R is better for advanced stats. The presenter suggests trying both to see which one works best for you, promoting an open-minded approach to this debate."
+  },
+  {
+    "objectID": "assignments/assignment-1.html#b",
+    "href": "assignments/assignment-1.html#b",
+    "title": "Assignment 1",
+    "section": "(b)",
+    "text": "(b)\n\nDifferences Between R and Python:\n\nPython is a general-purpose programming language, while R was initially developed for statistical analysis.\nPopular packages in R include dplyr, ggplot2, and shiny, while Python offers libraries like pandas, matplotlib, and seaborn.\nPython is more versatile and suitable for web applications, but R excels in statistical analysis.\nPython is easier to learn, while R offers more advanced features.\n\n\n\nSyntax Example:\n\nWorking with data arrays\n\n# R\n# Create a vector:\nmy_vec &lt;- c(1, 2, 3, 4, 5, 6, 7, 8)\nstr(my_vec)\n\n num [1:8] 1 2 3 4 5 6 7 8\n\n\n\n# Python\n# Create a list:\nmy_vec = [1, 2, 3, 4, 5, 6, 7, 8]\nprint(type(my_vec))\n\n&lt;class 'list'&gt;\n\n\n\n\nDefining Functions\n\n# R\n#Define a function:\nmy_compare &lt;- function(x, y){\n  if(x &lt; y){\n    print(\"1st value is smaller\")\n  }else{\n    if(x &gt; y){\n      print(\"1st value is greater\")\n    }else{\n      print(\"Values are equal\")\n    }\n  }\n}\n#Test the function\nmy_compare(1, 1)\n\n[1] \"Values are equal\"\n\n\n\n# Python\n#Define a function:\ndef my_compare(x, y):\n  if x &lt; y:\n    print(\"1st value is smaller\")\n  elif x &gt; y:\n    print(\"1st value is greater\")\n  else:\n    print(\"Values are equal\")\n#\n#\n#\n#\n#Test the function\nmy_compare(1, 1)\n\nValues are equal"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#c",
+    "href": "assignments/assignment-1.html#c",
+    "title": "Assignment 1",
+    "section": "(c)",
+    "text": "(c)\n\nlibrary(dslabs)\ndata(\"na_example\")\nna_example\n\n   [1]  2  1  3  2  1  3  1  4  3  2  2 NA  2  2  1  4 NA  1  1  2  1  2  2  1\n  [25]  2  5 NA  2  2  3  1  2  4  1  1  1  4  5  2  3  4  1  2  4  1  1  2  1\n  [49]  5 NA NA NA  1  1  5  1  3  1 NA  4  4  7  3  2 NA NA  1 NA  4  1  2  2\n  [73]  3  2  1  2  2  4  3  4  2  3  1  3  2  1  1  1  3  1 NA  3  1  2  2  1\n  [97]  2  2  1  1  4  1  1  2  3  3  2  2  3  3  3  4  1  1  1  2 NA  4  3  4\n [121]  3  1  2  1 NA NA NA NA  1  5  1  2  1  3  5  3  2  2 NA NA NA NA  3  5\n [145]  3  1  1  4  2  4  3  3 NA  2  3  2  6 NA  1  1  2  2  1  3  1  1  5 NA\n [169] NA  2  4 NA  2  5  1  4  3  3 NA  4  3  1  4  1  1  3  1  1 NA NA  3  5\n [193]  2  2  2  3  1  2  2  3  2  1 NA  2 NA  1 NA NA  2  1  1 NA  3 NA  1  2\n [217]  2  1  3  2  2  1  1  2  3  1  1  1  4  3  4  2  2  1  4  1 NA  5  1  4\n [241] NA  3 NA NA  1  1  5  2  3  3  2  4 NA  3  2  5 NA  2  3  4  6  2  2  2\n [265] NA  2 NA  2 NA  3  3  2  2  4  3  1  4  2 NA  2  4 NA  6  2  3  1 NA  2\n [289]  2 NA  1  1  3  2  3  3  1 NA  1  4  2  1  1  3  2  1  2  3  1 NA  2  3\n [313]  3  2  1  2  3  5  5  1  2  3  3  1 NA NA  1  2  4 NA  2  1  1  1  3  2\n [337]  1  1  3  4 NA  1  2  1  1  3  3 NA  1  1  3  5  3  2  3  4  1  4  3  1\n [361] NA  2  1  2  2  1  2  2  6  1  2  4  5 NA  3  4  2  1  1  4  2  1  1  1\n [385]  1  2  1  4  4  1  3 NA  3  3 NA  2 NA  1  2  1  1  4  2  1  4  4 NA  1\n [409]  2 NA  3  2  2  2  1  4  3  6  1  2  3  1  3  2  2  2  1  1  3  2  1  1\n [433]  1  3  2  2 NA  4  4  4  1  1 NA  4  3 NA  1  3  1  3  2  4  2  2  2  3\n [457]  2  1  4  3 NA  1  4  3  1  3  2 NA  3 NA  1  3  1  4  1  1  1  2  4  3\n [481]  1  2  2  2  3  2  3  1  1 NA  3  2  1  1  2 NA  2  2  2  3  3  1  1  2\n [505] NA  1  2  1  1  3  3  1  3  1  1  1  1  1  2  5  1  1  2  2  1  1 NA  1\n [529]  4  1  2  4  1  3  2 NA  1  1 NA  2  1  1  4  2  3  3  1  5  3  1  1  2\n [553] NA  1  1  3  1  3  2  4 NA  2  3  2  1  2  1  1  1  2  2  3  1  5  2 NA\n [577]  2 NA  3  2  2  2  1  5  3  2  3  1 NA  3  1  2  2  2  1  2  2  4 NA  6\n [601]  1  2 NA  1  1  2  2  3 NA  3  2  3  3  4  2 NA  2 NA  4 NA  1  1  2  2\n [625]  3  1  1  1  3 NA  2  5 NA  7  1 NA  4  3  3  1 NA  1  1  1  1  3  2  4\n [649]  2  2  3 NA NA  1  4  3  2  2  2  3  2  4  2  2  4 NA NA NA  6  3  3  1\n [673]  4  4  2  1 NA  1  6 NA  3  3  2  1  1  6 NA  1  5  1 NA  2  6  2 NA  4\n [697]  1  3  1  2 NA  1  1  3  1  2  4  2  1  3  2  4  3  2  2  1  1  5  6  4\n [721]  2  2  2  2  4 NA  1  2  2  2  2  4  5 NA NA NA  4  3  3  3  2  4  2  4\n [745] NA NA NA NA  2  1 NA  2  4  3  2 NA  2  3  1  3  4 NA  1  2  1  2 NA  3\n [769]  1  2  1  2  1  2  1  2  2  2  2  1  1  3  3  1  3  4  3 NA NA  4  2  3\n [793]  2  1  3  2  4  2  2  3  1  2  4  3  3  4 NA  1  4  2  1  1  1  3  1  5\n [817]  2  2  4  2 NA  1  3  1  2 NA  1  2  1  2  1 NA  1  3  2  3  2 NA  2  1\n [841]  4  2 NA NA NA  2  4  2 NA NA  3  1 NA  5  5  2  2  2 NA  2  1  3  1  3\n [865]  2  4  2  4 NA  4  1  2  3  2  3  3  2  3  2  2  2  1  3  2  4  2 NA  3\n [889]  3  2  2 NA NA  3  2  1  2  4  1  1  1  1  4  3  2 NA  3  2 NA  1 NA  3\n [913]  2  1  1  1  2 NA  2  2  3  3  2 NA NA  4  5  2  2  2  1  2  3  1  3  3\n [937]  4  3 NA  1  1  1 NA  4  3  5  1  1  2 NA  2  2  2  2  5  2  2  3  1  2\n [961]  3 NA  1  2 NA NA  2 NA  3  1  1  2  5  3  5  1  1  4 NA  2  1  3  1  1\n [985]  2  4  3  3  3 NA  1  1  2  2  1  1  2  2 NA  2\n\n# Total number of NAs in the data frame:\nsum(is.na(na_example))\n\n[1] 145\n\nno_na_example &lt;- ifelse(is.na(na_example), 0, na_example)\nno_na_example\n\n   [1] 2 1 3 2 1 3 1 4 3 2 2 0 2 2 1 4 0 1 1 2 1 2 2 1 2 5 0 2 2 3 1 2 4 1 1 1 4\n  [38] 5 2 3 4 1 2 4 1 1 2 1 5 0 0 0 1 1 5 1 3 1 0 4 4 7 3 2 0 0 1 0 4 1 2 2 3 2\n  [75] 1 2 2 4 3 4 2 3 1 3 2 1 1 1 3 1 0 3 1 2 2 1 2 2 1 1 4 1 1 2 3 3 2 2 3 3 3\n [112] 4 1 1 1 2 0 4 3 4 3 1 2 1 0 0 0 0 1 5 1 2 1 3 5 3 2 2 0 0 0 0 3 5 3 1 1 4\n [149] 2 4 3 3 0 2 3 2 6 0 1 1 2 2 1 3 1 1 5 0 0 2 4 0 2 5 1 4 3 3 0 4 3 1 4 1 1\n [186] 3 1 1 0 0 3 5 2 2 2 3 1 2 2 3 2 1 0 2 0 1 0 0 2 1 1 0 3 0 1 2 2 1 3 2 2 1\n [223] 1 2 3 1 1 1 4 3 4 2 2 1 4 1 0 5 1 4 0 3 0 0 1 1 5 2 3 3 2 4 0 3 2 5 0 2 3\n [260] 4 6 2 2 2 0 2 0 2 0 3 3 2 2 4 3 1 4 2 0 2 4 0 6 2 3 1 0 2 2 0 1 1 3 2 3 3\n [297] 1 0 1 4 2 1 1 3 2 1 2 3 1 0 2 3 3 2 1 2 3 5 5 1 2 3 3 1 0 0 1 2 4 0 2 1 1\n [334] 1 3 2 1 1 3 4 0 1 2 1 1 3 3 0 1 1 3 5 3 2 3 4 1 4 3 1 0 2 1 2 2 1 2 2 6 1\n [371] 2 4 5 0 3 4 2 1 1 4 2 1 1 1 1 2 1 4 4 1 3 0 3 3 0 2 0 1 2 1 1 4 2 1 4 4 0\n [408] 1 2 0 3 2 2 2 1 4 3 6 1 2 3 1 3 2 2 2 1 1 3 2 1 1 1 3 2 2 0 4 4 4 1 1 0 4\n [445] 3 0 1 3 1 3 2 4 2 2 2 3 2 1 4 3 0 1 4 3 1 3 2 0 3 0 1 3 1 4 1 1 1 2 4 3 1\n [482] 2 2 2 3 2 3 1 1 0 3 2 1 1 2 0 2 2 2 3 3 1 1 2 0 1 2 1 1 3 3 1 3 1 1 1 1 1\n [519] 2 5 1 1 2 2 1 1 0 1 4 1 2 4 1 3 2 0 1 1 0 2 1 1 4 2 3 3 1 5 3 1 1 2 0 1 1\n [556] 3 1 3 2 4 0 2 3 2 1 2 1 1 1 2 2 3 1 5 2 0 2 0 3 2 2 2 1 5 3 2 3 1 0 3 1 2\n [593] 2 2 1 2 2 4 0 6 1 2 0 1 1 2 2 3 0 3 2 3 3 4 2 0 2 0 4 0 1 1 2 2 3 1 1 1 3\n [630] 0 2 5 0 7 1 0 4 3 3 1 0 1 1 1 1 3 2 4 2 2 3 0 0 1 4 3 2 2 2 3 2 4 2 2 4 0\n [667] 0 0 6 3 3 1 4 4 2 1 0 1 6 0 3 3 2 1 1 6 0 1 5 1 0 2 6 2 0 4 1 3 1 2 0 1 1\n [704] 3 1 2 4 2 1 3 2 4 3 2 2 1 1 5 6 4 2 2 2 2 4 0 1 2 2 2 2 4 5 0 0 0 4 3 3 3\n [741] 2 4 2 4 0 0 0 0 2 1 0 2 4 3 2 0 2 3 1 3 4 0 1 2 1 2 0 3 1 2 1 2 1 2 1 2 2\n [778] 2 2 1 1 3 3 1 3 4 3 0 0 4 2 3 2 1 3 2 4 2 2 3 1 2 4 3 3 4 0 1 4 2 1 1 1 3\n [815] 1 5 2 2 4 2 0 1 3 1 2 0 1 2 1 2 1 0 1 3 2 3 2 0 2 1 4 2 0 0 0 2 4 2 0 0 3\n [852] 1 0 5 5 2 2 2 0 2 1 3 1 3 2 4 2 4 0 4 1 2 3 2 3 3 2 3 2 2 2 1 3 2 4 2 0 3\n [889] 3 2 2 0 0 3 2 1 2 4 1 1 1 1 4 3 2 0 3 2 0 1 0 3 2 1 1 1 2 0 2 2 3 3 2 0 0\n [926] 4 5 2 2 2 1 2 3 1 3 3 4 3 0 1 1 1 0 4 3 5 1 1 2 0 2 2 2 2 5 2 2 3 1 2 3 0\n [963] 1 2 0 0 2 0 3 1 1 2 5 3 5 1 1 4 0 2 1 3 1 1 2 4 3 3 3 0 1 1 2 2 1 1 2 2 0\n[1000] 2\n\n# Total number of NAs in the new data frame:\nsum(is.na(no_na_example))\n\n[1] 0"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "My Assignments",
+    "section": "",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2023 EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on November 1, 2023\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "This page is under construction.\n\n\n\n Back to top"
   }
 ]
