@@ -10,18 +10,19 @@ about:
     - icon: twitter
       text: Twitter
       href: https://twitter.com/mer7kaplan
-    - icon: github
-      text: My Personal Repository
-      href: https://github.com/emu-hacettepe-analytics/emu430-fall2023-mer7kaplan
-    - icon: c-circle
-      text: Team Data Cipher Repository
-      href: https://github.com/emu-hacettepe-analytics/emu430-fall2023-team-data_ciphers
     - icon: linkedin
       text: LinkedIn 
       href: https://www.linkedin.com/in/mertbekir-kaplan/
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/mert7.kaplan/  
+    - icon: github
+      text: My Personal Repository
+      href: https://github.com/emu-hacettepe-analytics/emu430-fall2023-mer7kaplan
+    - icon: c-circle
+      text: Team Data Cipher Repository
+      href: https://github.com/emu-hacettepe-analytics/emu430-fall2023-team-data_ciphers
+
 sidebar: false 
 ---
 
