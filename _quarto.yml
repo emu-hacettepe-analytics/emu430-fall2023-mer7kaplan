@@ -22,12 +22,18 @@ website:
             href: project.qmd
             
     tools:
-      - icon: github
-        href: https://github.com/mer7kaplan
       - icon: twitter
         href: https://twitter.com/mer7kaplan
       - icon: linkedin
         href: https://www.linkedin.com/in/mertbekir-kaplan/
+      - icon: instagram
+        href: https://www.instagram.com/mert7.kaplan/
+      - icon: github
+        menu:
+          - text: Mert Bekir Kaplan
+            url: https://github.com/emu-hacettepe-analytics/emu430-fall2023-mer7kaplan
+          - text: Team Data Cipher
+            url: https://github.com/emu-hacettepe-analytics/emu430-fall2023-team-data_ciphers
 
   sidebar:
     - title: "Assignments"
