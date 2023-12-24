@@ -19,8 +19,25 @@ Here is my CV: [Click here to download the resume.](resume.pdf)
 
 ## Competencies
 
-R, Quarto, Git, Python
+| Competency        | Level                    |
+| ----------------- | ------------------------ |
+| Microsoft Office  | ███████████████████████ |
+| Python            | ███████                  |
+| R                 | ██████████               |
+| MATLAB            | ████████                 |
+| Minitab           | █████                     |
+| SolidWorks        | ███████████████          |
+| AutoCAD           | ███████████              |
+| Arena             | ██████                   |
+| Git               | ██████                   |
+| Quarto            | ███████                  |
 
 ## Hobbies
 
-Pool, Soccer, Cinema, Workout, Chess, Reading Books, Self-Improvement
+| What Keeps Me Buzzing|
+| --------------- | ---------------- |
+| 🎥 Cinema       | 🎳 Bowling        |
+| 🎱 Pool         | 🎮 Video Games    |
+| 💪 Workout      | 🃏 Poker          |
+| ♟️ Chess        | 📚 Reading        |
+| ⚽ Soccer       |                  |

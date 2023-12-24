@@ -60,14 +60,14 @@
     "href": "about.html#competencies",
     "title": "About Me",
     "section": "Competencies",
-    "text": "Competencies\nR, Quarto, Git, Python"
+    "text": "Competencies\n\n\n\nCompetency\nLevel\n\n\n\n\nMicrosoft Office\n███████████████████████\n\n\nPython\n███████\n\n\nR\n██████████\n\n\nMATLAB\n████████\n\n\nMinitab\n█████\n\n\nSolidWorks\n███████████████\n\n\nAutoCAD\n███████████\n\n\nArena\n██████\n\n\nGit\n██████\n\n\nQuarto\n███████"
   },
   {
     "objectID": "about.html#hobbies",
     "href": "about.html#hobbies",
     "title": "About Me",
     "section": "Hobbies",
-    "text": "Hobbies\nPool, Soccer, Cinema, Workout, Chess, Reading Books, Self-Improvement"
+    "text": "Hobbies\n\n\n\nWhat Keeps Me Buzzing\n\n\n\n\n\n🎥 Cinema\n🎳 Bowling\n\n\n🎱 Pool\n🎮 Video Games\n\n\n💪 Workout\n🃏 Poker\n\n\n♟️ Chess\n📚 Reading\n\n\n⚽ Soccer"
   },
   {
     "objectID": "assignments/assignment-1.html",
@@ -110,5 +110,12 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about.html#what-keeps-me-buzzing",
+    "href": "about.html#what-keeps-me-buzzing",
+    "title": "About Me",
+    "section": "What Keeps Me Buzzing",
+    "text": "What Keeps Me Buzzing\n\n\n\nHobbies\n\n\n\n\n\n🎥 Cinema\n🎳 Bowling\n\n\n🎱 Pool\n🎮 Video Games\n\n\n💪 Workout\n🃏 Poker\n\n\n♟️ Chess\n📚 Reading\n\n\n⚽ Soccer"
   }
 ]
