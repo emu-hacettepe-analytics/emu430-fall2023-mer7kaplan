@@ -3,9 +3,9 @@ title: "Welcome to My Analytics Lab"
 about:
   id: hero-heading
   template: trestles
-  image: MB Logo 3.jpg
+  image: mert_kaplan.gif
   image-shape: round
-  image-width: 10em
+  image-width: 12em
   links: 
     - icon: twitter
       text: Twitter
