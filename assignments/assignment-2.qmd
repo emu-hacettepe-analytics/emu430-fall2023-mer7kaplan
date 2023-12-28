@@ -275,7 +275,7 @@ correlation <- cor(movies$votes, movies$rating)
 cat("Correlation between Votes and Ratings:", correlation, "\n")
 ggplot(movies, aes(x = votes, y = rating, color = rating)) +
   geom_point() +
-  geom_smooth(method = "lm", se = FALSE, color = "brown", show.legend = FALSE) +
+  geom_smooth(method = "lm", se = FALSE, color = "brown", formula = y ~ x) +
   labs(x = "Votes", y = "Rating") +
   ggtitle("Scatter Plot of Votes vs Rating") +
   theme_minimal() +
@@ -293,17 +293,15 @@ The correlation between votes and ratings is weak, as shown by the coefficient o
 
 correlation_duration_rating <- cor(movies$duration, movies$rating)
 cat("Correlation between Duration and Ratings:", correlation_duration_rating, "\n")
-suppressMessages({
-  ggplot(movies, aes(x = duration, y = rating, color = rating)) +
-    geom_point() +
-    geom_smooth(method = "lm", se = FALSE, color = "brown") +
-    labs(x = "Duration", y = "Rating") +
-    ggtitle("Scatter Plot of Duration vs Rating") +
-    theme_minimal() +
-    theme(legend.position = "none") +
-    scale_x_log10() +
-    theme(plot.title = element_text(hjust = 0.5))
-})
+ggplot(movies, aes(x = duration, y = rating, color = rating)) +
+  geom_point() +
+  geom_smooth(method = "lm", formula = y ~ x, se = FALSE, color = "brown", show.legend = FALSE) +
+  labs(x = "Duration", y = "Rating") +
+  ggtitle("Scatter Plot of Duration vs Rating") +
+  theme_minimal() +
+  theme(legend.position = "none") +
+  scale_x_log10() +
+  theme(plot.title = element_text(hjust = 0.5))
 ```
 
 There is no correlation between votes and ratings, as indicated by the correlation coefficient of 0.03343216. This is also visible in the following plot.
