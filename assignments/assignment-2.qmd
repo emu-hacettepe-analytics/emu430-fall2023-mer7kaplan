@@ -2,13 +2,22 @@
 title: "Assignment 2"
 format:
   html:
+    toc: true
+    toc-depth: 6
+    toc-title: Contents
+    toc-location: left
+    toc-expand: 5
+    smooth-scroll: true
+    anchor-sections: true
+    include-after-body: abbrv_toc.html
+    number-sections: true
     code-fold: true
     code-tools: true
 ---
 
 My second assignment consists of four parts.
 
-## (1)
+## Importing Urls from the IMDB {toc-text="st Section"}
 
 ```{r}
 #| code-fold: true
@@ -18,7 +27,7 @@ url1 <- "https://m.imdb.com/search/title/?title_type=feature&release_date=2010-0
 url2 <- "https://m.imdb.com/search/title/?title_type=feature&release_date=,2009-12-31&num_votes=2500,&country_of_origin=TR&count=250"
 ```
 
-## (2)
+## Creating the Movies Data Frame {toc-text="nd Section"}
 
 ```{r}
 #| code-fold: true
@@ -138,7 +147,7 @@ kable(
 )
 ```
 
-## (3)
+## Top 5 and Bottom 5 Movies based on Ratings {toc-text="rd Section"}
 
 ### Part A)
 
@@ -306,7 +315,7 @@ ggplot(movies, aes(x = duration, y = rating, color = rating)) +
 
 There is no correlation between votes and ratings, as indicated by the correlation coefficient of 0.03343216. This is also visible in the following plot.
 
-## (4)
+## Turkish Movies in IMDB Top 1000 {toc-text="th Section"}
 
 ```{r}
 #| code-fold: true
