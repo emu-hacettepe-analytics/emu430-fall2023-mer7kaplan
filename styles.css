@@ -1,11 +1,4 @@
 /* css styles */
-body {
-  font-family: cursive;
-  font-size: 16px;
-  font-weight: normal;
-
-}
-/* Add this style for the download button */
 .download-button {
   display: inline-block;
   padding: 5px 10px;
@@ -13,13 +6,26 @@ body {
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  border: 2px solid #703C1F;
-  color: #703C1F;
+  border: 2px solid #333333;
+  color: #333333;
   border-radius: 5px;
   transition: background-color 0.3s;
 }
 
 .download-button:hover {
-  background-color: #703C1F;
+  background-color: #333333;
   color: #fff;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.navbar {
+  background-color: #333333;
+  color: #ffffff;
+  padding: 20px;
+  font-size: 18px;
 }
