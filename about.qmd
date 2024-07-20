@@ -7,7 +7,7 @@ sidebar: false
 
 ## Education
 
-![](hacettepe.png){width="30" height="46"} Bachelor's Degree, Industrial Engineering, [Hacettepe University](https://www.hacettepe.edu.tr/), Turkey, 2019 - ongoing.
+![](hacettepe.png){width="30" height="46"} Bachelor's Degree, Industrial Engineering, [Hacettepe University](https://www.hacettepe.edu.tr/), Turkey, 2019 - 2024.
 
 ## Resume
 
@@ -15,9 +15,11 @@ sidebar: false
 
 ## Internships
 
-![](turk_traktor.png) [Türk Traktör ve Ziraat Makineleri A.S.](https://www.turktraktor.com.tr), Production and Material Planning Department, 05/07/2023 - 02/08/2023
+![](tubitak.png){width="60"} [TÜBİTAK BİLGEM YTE](https://bilgem.tubitak.gov.tr/yte/), Business Analyst, 26/06/2024 - 07/08/2023
 
 ![](mke.png){width="50"} [Makine ve Kimya Endüstrisi A.S](https://www.mke.gov.tr)., Production Department, 21/08/2023 - 18/09/2023
+
+![](turk_traktor.png) [Türk Traktör ve Ziraat Makineleri A.S.](https://www.turktraktor.com.tr), Production and Material Planning Department, 05/07/2023 - 02/08/2023
 
 ## Competencies
 
@@ -28,11 +30,12 @@ sidebar: false
 | R                | ██████████              |
 | MATLAB           | ████████                |
 | Minitab          | █████                   |
-| SolidWorks       | ███████████████         |
+| SOLIDWORKS       | ███████████████         |
 | AutoCAD          | ███████████             |
 | Arena            | ██████                  |
 | Git              | ██████                  |
 | Quarto           | ███████                 |
+| SQL              | ██████████              |
 
 ## Hobbies
 
