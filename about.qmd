@@ -15,7 +15,7 @@ sidebar: false
 
 ## Internships
 
-![](tubitak.png){width="60"} [TÜBİTAK BİLGEM YTE](https://bilgem.tubitak.gov.tr/yte/), Business Analyst, 26/06/2024 - 07/08/2023
+![](tubitak.png){width="60"} [TÜBİTAK BİLGEM YTE](https://bilgem.tubitak.gov.tr/yte/), Business Analyst, 26/06/2024 - 07/08/2024
 
 ![](mke.png){width="50"} [Makine ve Kimya Endüstrisi A.S](https://www.mke.gov.tr)., Production Department, 21/08/2023 - 18/09/2023
 
